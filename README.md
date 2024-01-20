@@ -1,5 +1,5 @@
-### Hi there 👋<h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Kartik</h1>
+<h3 align="center">A passionate learning devloper</h3>
 
 - 🔭 I’m currently working on **fullstack E-commerce webiste**
 
